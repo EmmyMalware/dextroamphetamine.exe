@@ -1,0 +1,9 @@
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\bin\Debug\Dextroamphetamine.exe
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\bin\Debug\Dextroamphetamine.pdb
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.csproj.AssemblyReference.cache
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.Form1.resources
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.Properties.Resources.resources
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.csproj.GenerateResource.cache
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.csproj.CoreCompileInputs.cache
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.exe
+C:\Users\Emmy\source\repos\Dextroamphetamine\Dextroamphetamine\obj\Debug\Dextroamphetamine.pdb
